@@ -1,3 +1,7 @@
+# Lecture Optimization
+このリポジトリは，大学院の時間割を最適化するためのアプリケーションです．デモ動画．
+<img src="demo.gif" alt="demo"></img>
+
 ## 環境の立ち上げ
 1. [Groq](https://console.groq.com/keys)からGroq API Keyを取得．
 ただし，Groq APIの無料枠は現在，1分間に30リクエスト，1日に1.4万リクエストまでとなっていることに注意．
