@@ -1,6 +1,7 @@
 # Lecture Optimization
 このリポジトリは，大学院の時間割を最適化するためのアプリケーションです．デモ動画．
-<video src="demo.mp4" alt="demo" autoplay></video>
+
+![demo](demo.gif)
 
 ## 環境の立ち上げ
 1. [Groq](https://console.groq.com/keys)からGroq API Keyを取得．
